@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Same Old app</string>
+    <string name="insert">Insert</string>
+    <string name="hint">input data to insert</string>
+</resources>
